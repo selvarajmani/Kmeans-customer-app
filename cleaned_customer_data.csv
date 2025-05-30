@@ -1,0 +1,101 @@
+CustomerID,Gender,Age,Annual_income,Spending_score,Customer Type,Cluster,Cluster_Label
+78,Male,58,133.0,70.0,Medium value,1,Careful Spender
+34,Male,59,53.0,9.0,Low value,3,Others
+33,Male,43,142.0,33.0,Low value,4,Others
+88,Male,59,111.0,68.0,Medium value,1,Careful Spender
+80,Male,56,52.0,54.0,Low value,0,Target
+48,Male,32,62.0,57.0,Medium value,0,Target
+44,Female,54,74.0,24.0,Low value,3,Others
+40,Female,69,113.0,26.0,Low value,4,Others
+51,Male,53,113.0,20.0,Low value,4,Others
+47,Female,62,143.0,7.0,Low value,4,Others
+26,Female,43,138.0,86.0,High value,2,Luxury Seeker
+15,Male,39,140.0,67.0,Medium value,1,Careful Spender
+69,Male,28,47.0,63.0,Low value,0,Target
+3,Female,26,144.0,93.0,High value,2,Luxury Seeker
+54,Male,24,68.0,16.0,Low value,3,Others
+50,Male,46,23.0,45.0,Low value,0,Target
+83,Male,44,22.0,97.0,Low value,0,Target
+4,Male,25,145.0,46.0,Low value,1,Careful Spender
+65,Female,61,124.0,86.0,High value,2,Luxury Seeker
+85,Male,54,41.0,53.0,Low value,0,Target
+92,Male,20,62.0,47.0,Low value,0,Target
+20,Male,54,52.0,58.0,Low value,0,Target
+22,Male,31,83.0,46.0,Low value,1,Careful Spender
+1,Male,45,26.0,37.0,Low value,3,Others
+72,Male,56,142.0,58.0,Medium value,1,Careful Spender
+77,Male,30,129.0,42.0,Low value,1,Careful Spender
+8,Female,65,95.0,60.0,Medium value,1,Careful Spender
+71,Male,42,62.0,22.0,Low value,3,Others
+6,Female,51,115.0,95.0,High value,2,Luxury Seeker
+32,Male,32,66.0,17.0,Low value,3,Others
+46,Male,56,16.0,60.0,Low value,0,Target
+74,Female,18,149.0,86.0,High value,2,Luxury Seeker
+2,Male,24,53.0,24.0,Low value,3,Others
+27,Female,31,84.0,23.0,Low value,3,Others
+41,Male,49,21.0,99.0,Low value,0,Target
+93,Female,49,18.0,99.0,Low value,0,Target
+38,Male,56,25.0,93.0,Low value,0,Target
+79,Male,20,36.0,15.0,Low value,3,Others
+95,Male,41,63.0,40.0,Low value,3,Others
+70,Male,45,35.0,62.0,Low value,0,Target
+66,Male,61,96.0,51.0,Medium value,1,Careful Spender
+18,Male,18,82.0,95.0,Medium value,2,Luxury Seeker
+11,Male,54,144.0,85.0,High value,2,Luxury Seeker
+43,Male,47,126.0,25.0,Low value,4,Others
+100,Male,69,113.0,19.0,Low value,4,Others
+63,Male,45,107.0,87.0,High value,2,Luxury Seeker
+35,Female,30,96.0,43.0,Low value,1,Careful Spender
+5,Male,29,127.0,53.0,Medium value,1,Careful Spender
+31,Female,32,110.0,90.0,High value,2,Luxury Seeker
+14,Female,57,143.0,33.0,Low value,4,Others
+56,Male,39,130.0,76.0,Medium value,2,Luxury Seeker
+42,Male,21,104.0,50.0,Low value,1,Careful Spender
+60,Female,62,98.0,98.0,Medium value,2,Luxury Seeker
+45,Female,40,127.0,13.0,Low value,4,Others
+39,Male,66,56.0,42.0,Low value,3,Others
+57,Male,45,89.0,87.0,Medium value,2,Luxury Seeker
+67,Female,37,68.0,25.0,Low value,3,Others
+81,Male,23,123.0,60.0,Medium value,1,Careful Spender
+53,Male,49,145.0,8.0,Low value,4,Others
+90,Female,41,125.0,96.0,High value,2,Luxury Seeker
+97,Male,69,60.0,16.0,Low value,3,Others
+76,Female,69,47.0,52.0,Low value,0,Target
+25,Male,22,111.0,47.0,Low value,1,Careful Spender
+94,Female,49,49.0,55.0,Low value,0,Target
+16,Female,44,144.0,18.0,Low value,4,Others
+52,Male,30,62.0,65.0,Medium value,0,Target
+28,Female,56,107.0,66.0,Medium value,1,Careful Spender
+9,Female,40,127.0,97.0,High value,2,Luxury Seeker
+61,Female,,126.0,66.0,Medium value,1,Careful Spender
+84,Male,26,41.0,8.0,Low value,3,Others
+91,Female,32,75.0,94.0,Medium value,2,Luxury Seeker
+19,Male,52,137.0,54.0,Medium value,1,Careful Spender
+59,Male,59,118.0,92.0,High value,2,Luxury Seeker
+98,Female,66,131.0,13.0,Low value,4,Others
+86,Male,50,35.0,60.0,Low value,0,Target
+17,Male,52,67.0,25.0,Low value,3,Others
+30,Male,26,104.0,2.0,Low value,4,Others
+87,Male,68,44.0,5.0,Low value,3,Others
+13,Male,61,101.0,87.0,High value,2,Luxury Seeker
+55,Female,68,134.0,14.0,Low value,4,Others
+12,Female,52,68.0,32.0,Low value,3,Others
+37,Female,49,143.0,39.0,Low value,4,Others
+62,Male,23,113.0,32.0,Low value,4,Others
+23,Male,20,130.0,24.0,Low value,4,Others
+82,Male,25,65.0,50.55555555555556,Medium value,0,Target
+96,Female,58,31.0,52.0,Low value,0,Target
+49,Female,60,51.0,36.0,Low value,3,Others
+64,Female,45,142.0,63.0,Medium value,1,Careful Spender
+24,Male,18,112.0,32.0,Low value,4,Others
+73,Male,50,89.0,58.0,Medium value,1,Careful Spender
+10,Male,41,16.0,63.0,Low value,0,Target
+99,Female,66,20.0,30.0,Low value,3,Others
+21,Female,64,38.0,67.0,Low value,0,Target
+89,Male,61,42.0,6.0,Low value,3,Others
+36,Male,68,118.0,48.0,Low value,1,Careful Spender
+29,Male,44,17.0,27.0,Low value,3,Others
+75,Male,44,142.0,49.0,Low value,1,Careful Spender
+58,Female,19,127.0,15.0,Low value,4,Others
+68,Female,47,82.0,58.0,Medium value,1,Careful Spender
+7,Female,50,127.0,99.0,High value,2,Luxury Seeker
